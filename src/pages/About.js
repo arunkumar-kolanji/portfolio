@@ -56,7 +56,7 @@ export default function About() {
     {
       stage: "MERN Stack Development",
       institution: "Skill Safari",
-      year: "2024 - 2025",
+      year: "2023 - 2024",
       icon: <FaBook />,
       color: "from-yellow-500 to-yellow-700",
       title: "Knowledge & Skills",
