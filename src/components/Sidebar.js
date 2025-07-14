@@ -3,7 +3,6 @@ import {
   FaHome,
   FaInfoCircle,
   FaProjectDiagram,
-  FaGraduationCap,
   FaEnvelope,
   FaBars,
   FaTimes,
