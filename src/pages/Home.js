@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { FaCheckCircle, FaGithub, FaLinkedin } from "react-icons/fa";
+import photo1 from "../img/photo-1.jpg";
 
 export default function Home({ setCurrentPage }) {
   const portfolioData = {
@@ -12,7 +13,7 @@ export default function Home({ setCurrentPage }) {
       </span>
     ),
     bio: "I create scalable web applications and love working with modern technologies.",
-    image: require("../img/photo-1.jpg"), // 🖼️ Updated to use local img folder
+    image: photo1, // 🖼️ Updated to use local img folder
     socialLinks: {
       github: "https://github.com/arunkumar-kolanji",
       linkedin: "https://www.linkedin.com/in/arun-kumar-23a049213/",
